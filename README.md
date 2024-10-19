@@ -10,7 +10,7 @@ Me apasiona aprender programación y la variedad de lenguajes que existen.
 ## Mis notas de lectura: 
 - [Mindset](./mindset.md)
 
-##Como cambiar mi mindset
+## Como cambiar mi mindset
 - Estudiar
 - Hacer ejercicios
 - leer
