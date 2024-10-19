@@ -9,3 +9,10 @@ Me apasiona aprender programación y la variedad de lenguajes que existen.
 - [facebook]
 ## Mis notas de lectura: 
 - [Mindset](./mindset.md)
+
+##Como cambiar mi mindset
+- Estudiar
+- Hacer ejercicios
+- leer
+- aprender a tocar un instrumento
+
