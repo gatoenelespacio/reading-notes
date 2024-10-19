@@ -6,7 +6,7 @@ Me apasiona aprender programación y la variedad de lenguajes que existen.
 
 ## información de contacto
 - [instagram](https://www.instagram.com/jose_macd0/)
-- [facebook]
+- [facebook](https://www.facebook.com/Fresaturnip10/)
 ## Mis notas de lectura: 
 - [Mindset](./mindset.md)
 
