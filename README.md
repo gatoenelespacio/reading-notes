@@ -1,4 +1,4 @@
-# reading-notes-101n6
+# reading-notes
 # Mi nombre
 - Me llamo José Antonio Macedo Avila, actualmente estoy cursando desarrollo de software en el instituto de ISIL.
 Me apasiona aprender programación y la variedad de lenguajes que existen.
