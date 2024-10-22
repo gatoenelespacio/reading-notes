@@ -2,7 +2,7 @@
 # Mi nombre
 - Me llamo José Antonio Macedo Avila, actualmente estoy cursando desarrollo de software en el instituto de ISIL.
 Me apasiona aprender programación y la variedad de lenguajes que existen.
-![Fotodeperfil](blob:https://www.facebook.com/e9773ff1-a072-4bd3-904a-837b3f9eb7da)
+![Fotodeperfil](https://github.com/gatoenelespacio/reading-notes/blob/main/yo.jpeg)
 
 ## información de contacto
 - [instagram](https://www.instagram.com/jose_macd0/)
