@@ -15,4 +15,3 @@ Me apasiona aprender programación y la variedad de lenguajes que existen.
 - Hacer ejercicios
 - leer
 - aprender a tocar un instrumento
-
