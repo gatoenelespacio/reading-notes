@@ -17,6 +17,3 @@ Mediante tributos
 ### ¿Por qué es importante usar etiquetas semánticas? 
 
 Porque son mas fáciles de comprender y es mas accesible para los buscadores y desarrolladores web al momento de leer.
-
-
-
