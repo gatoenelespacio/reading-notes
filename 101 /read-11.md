@@ -14,4 +14,4 @@
 
 ## 4. Qué método utilizarías para cambiar el color de fondo de un elemento en el DOM y cómo se implementaría?
 
-### (document.style.backgroundcolor=""), es el método mas sencillo y directo.
+### (document.style.backgroundcolor=""), es el método mas sencillo y directo.  
