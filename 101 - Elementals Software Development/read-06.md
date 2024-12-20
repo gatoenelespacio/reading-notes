@@ -8,7 +8,7 @@
 - mkdir: Crea uno o varios directorios del trabajo actual
 - touch: Te permite crear archivos vacios.
 
-### ¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dada
+### ¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? Los argumentos son instrucciones adicionales dada
 
 - cd projects: Cambia el nombre del directorio actual por la carpeta llamada "projects".
 - mkdir new-project: Crea un nuevo directorio con el nombre "new-project".
